@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the code DOI and the accompanying paper."
+title: "docgraph-kb: 单文件 SQLite 文档知识库引擎（代码与复现包 v0.1.1）"
+type: software
+version: "0.1.1"
+date-released: "2026-11-20"
+license: "MIT"
+authors:
+  - family-names: Yin
+    given-names: Kang
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0001-2723-1293"
+doi: "10.5281/zenodo.24390721"
+url: "https://zenodo.org/records/24390721"
+repository-code: "https://gitee.com/yin-kang83/docgraph-kb-public"
+references:
+  - type: article
+    title: "Domain Pack: 面向可验证领域智能体的工程方法论（预印本 v0.1）"
+    doi: "10.5281/zenodo.24341406"
+    authors:
+      - family-names: Yin
+        given-names: Kang
