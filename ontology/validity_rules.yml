@@ -1,0 +1,67 @@
+# 效力/冲突规则（中华人民共和国立法法，2023修正）
+# 只收有明确条号的规则；不写学理解释。
+- id: rule.constitution_supreme
+  rule: 宪法最高效力
+  statement: 一切法律、行政法规、地方性法规、自治条例和单行条例、规章都不得同宪法相抵触。
+  source: 中华人民共和国立法法
+  article: 第九十八条
+  source_quote: 宪法具有最高的法律效力，一切法律、行政法规、地方性法规、自治条例和单行条例、规章都不得同宪法相抵触。
+  source_url: https://www.gov.cn/xinwen/2023-03/14/content_5746569.htm
+  jurisdiction: CN
+  effective_date: "2023-03-15"
+  applies_to: [law, administrative_regulation, local_regulation, rule]
+
+- id: rule.law_over_regulation
+  rule: 法律高于行政法规、地方性法规、规章
+  statement: 法律的效力高于行政法规、地方性法规、规章；行政法规的效力高于地方性法规、规章。
+  source: 中华人民共和国立法法
+  article: 第九十九条
+  source_quote: 法律的效力高于行政法规、地方性法规、规章。行政法规的效力高于地方性法规、规章。
+  source_url: https://www.gov.cn/xinwen/2023-03/14/content_5746569.htm
+  jurisdiction: CN
+  effective_date: "2023-03-15"
+  applies_to: [law, administrative_regulation, local_regulation, rule]
+
+- id: rule.local_over_local_rule
+  rule: 地方性法规高于本级和下级地方政府规章
+  statement: 地方性法规的效力高于本级和下级地方政府规章；省、自治区政府规章高于本行政区域内设区的市、自治州政府规章。
+  source: 中华人民共和国立法法
+  article: 第一百条
+  source_quote: 地方性法规的效力高于本级和下级地方政府规章。省、自治区的人民政府制定的规章的效力高于本行政区域内的设区的市、自治州的人民政府制定的规章。
+  source_url: https://www.gov.cn/xinwen/2023-03/14/content_5746569.htm
+  jurisdiction: CN
+  effective_date: "2023-03-15"
+  applies_to: [local_regulation, local_rule]
+
+- id: rule.special_over_general
+  rule: 特别规定优于一般规定
+  statement: 同一机关制定的法律、行政法规、地方性法规、自治条例和单行条例、规章，特别规定与一般规定不一致的，适用特别规定。
+  source: 中华人民共和国立法法
+  article: 第一百零三条
+  source_quote: 同一机关制定的法律、行政法规、地方性法规、自治条例和单行条例、规章，特别规定与一般规定不一致的，适用特别规定。
+  source_url: https://www.gov.cn/xinwen/2023-03/14/content_5746569.htm
+  jurisdiction: CN
+  effective_date: "2023-03-15"
+  applies_to: [law, administrative_regulation, local_regulation, rule]
+
+- id: rule.new_over_old
+  rule: 新的规定优于旧的规定
+  statement: 同一机关制定的法律、行政法规、地方性法规、自治条例和单行条例、规章，新的规定与旧的规定不一致的，适用新的规定。
+  source: 中华人民共和国立法法
+  article: 第一百零三条
+  source_quote: 新的规定与旧的规定不一致的，适用新的规定。
+  source_url: https://www.gov.cn/xinwen/2023-03/14/content_5746569.htm
+  jurisdiction: CN
+  effective_date: "2023-03-15"
+  applies_to: [law, administrative_regulation, local_regulation, rule]
+
+- id: rule.non_retroactivity
+  rule: 法不溯及既往
+  statement: 法律、行政法规、地方性法规、自治条例和单行条例、规章不溯及既往，但为更好保护公民、法人和其他组织权利和利益的特别规定除外。
+  source: 中华人民共和国立法法
+  article: 第一百零四条
+  source_quote: 法律、行政法规、地方性法规、自治条例和单行条例、规章不溯及既往，但为了更好地保护公民、法人和其他组织的权利和利益而作的特别规定除外。
+  source_url: https://www.gov.cn/xinwen/2023-03/14/content_5746569.htm
+  jurisdiction: CN
+  effective_date: "2023-03-15"
+  applies_to: [law, administrative_regulation, local_regulation, rule]

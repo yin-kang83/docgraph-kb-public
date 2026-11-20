@@ -1,0 +1,52 @@
+# 官方来源清单（2026-11-09 访问）
+- id: source.civil_code
+  name: 中华人民共和国民法典
+  type: law
+  jurisdiction: CN
+  effective_date: "2021-01-01"
+  url: https://www.12371.cn/2020/06/01/ARTI1591021670041266.shtml
+  note: 共产党员网受权发布全文
+
+- id: source.msjcy_311
+  name: 民法典第二编第二分编第九章（第311条）
+  type: law_excerpt
+  jurisdiction: CN
+  url: http://www.msjcy.gov.cn/info/1164/4436.htm
+
+- id: source.msjcy_577
+  name: 民法典第三编第一分编第八章（第577条）
+  type: law_excerpt
+  jurisdiction: CN
+  url: http://www.msjcy.gov.cn/info/1164/5083.htm
+
+- id: source.msjcy_979
+  name: 民法典第三编第三分编第二十八章（第979条）
+  type: law_excerpt
+  jurisdiction: CN
+  url: http://www.msjcy.gov.cn/info/1164/5708.htm
+
+- id: source.msjcy_985
+  name: 民法典第三编第三分编第二十九章（第985条）
+  type: law_excerpt
+  jurisdiction: CN
+  url: http://www.msjcy.gov.cn/info/1164/5728.htm
+
+- id: source.msjcy_188
+  name: 民法典第一编总则第九章（第188条）
+  type: law_excerpt
+  jurisdiction: CN
+  url: http://www.msjcy.gov.cn/info/1164/4320.htm
+
+- id: source.msjcy_1165
+  name: 民法典第七编第一章（第1165条）
+  type: law_excerpt
+  jurisdiction: CN
+  url: http://www.msjcy.gov.cn/info/1164/6342.htm
+
+- id: source.legislation_law
+  name: 中华人民共和国立法法（2023修正）
+  type: law
+  jurisdiction: CN
+  effective_date: "2023-03-15"
+  url: https://www.gov.cn/xinwen/2023-03/14/content_5746569.htm
+  note: 中国政府网/新华社受权发布

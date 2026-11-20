@@ -1,0 +1,17 @@
+[project]
+name = "legalwiki-kb"
+version = "0.1.0"
+description = "Single-file SQLite knowledge base engine: streaming ingest, document graph, FTS5 & hybrid retrieval, deterministic guardrails"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = ["PyYAML>=6", "numpy>=1.24"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+legalwiki-kb = "legalwiki.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,27 @@
+# 法律版本表（只收能确认生效/废止日期的法律）
+# 日期为法律生效日；effective_to 为失效日（当天起不再适用）。
+- law: 中华人民共和国民法典
+  aliases: [民法典]
+  effective_from: "2021-01-01"
+  effective_to: null
+  status: in_force
+  source: 中华人民共和国民法典（2020年5月28日通过）
+  source_url: https://www.gov.cn/xinwen/2020-06/01/content_5516649.htm
+  jurisdiction: CN
+
+- law: 中华人民共和国合同法
+  aliases: [合同法]
+  effective_from: "1999-10-01"
+  effective_to: "2021-01-01"
+  status: repealed
+  repealed_by: 中华人民共和国民法典
+  source: 中华人民共和国合同法（1999年3月15日通过）
+  jurisdiction: CN
+
+- law: 中华人民共和国刑法
+  aliases: [刑法]
+  effective_from: "1997-10-01"
+  effective_to: null
+  status: in_force
+  source: 中华人民共和国刑法（1997年修订）
+  jurisdiction: CN

@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+.pytest_cache/
+dist/
+build/
+*.egg-info/
+
+# 数据与日志（数据不进仓库）
+*.zip
+*.zst
+*.jsonl
+*.log
+data/
+corpus/
+
+# 密钥（永不入库）
+.env
+.env.*
+*.key
+*.token
+*.pem
+.ds_key
